@@ -7,7 +7,7 @@ var a = [
         ['detail','text','简介'],
         ['minprice','text','最低额度'],
         ['maxprice','text','最高额度'],
-        ['fasttime','text','最快放款时间']
+        ['fasttime','texsssssst','最快放款时间']
     ],
     [   
         ['interest','text','放款利率(月息%)'],
