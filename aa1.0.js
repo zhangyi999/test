@@ -11,7 +11,7 @@ var a = [
     ],
     [   
         ['interest','text','放款利率(月息%)'],
-        ['mintime','text','最低贷款期限（天）'],
+        ['mintime','text','最低贷款期限sdfsdf（天）'],
         ['maxtime','text','最长贷款期限（天）'],
         ['condition','text','放款条件'],
         ['material','text','所需材料'],
